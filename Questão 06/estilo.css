@@ -1,0 +1,19 @@
+figure, img {
+    width: 250px;
+    height: 250px;
+}
+
+p {
+    text-align: justify;
+    font-size: 12pt;
+    color: green;
+    font-weight: bold
+}
+
+figure:hover img{
+    border: 5px solid green
+}
+
+figure:hover p {
+    text-decoration: underline
+}
