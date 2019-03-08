@@ -1,0 +1,12 @@
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    color: red;
+    font-weight: bold;
+    border-bottom: 1px dashed red;
+    text-decoration-style: none
+}
+
+li:hover {
+    border-bottom: 1px dashed green
+}
